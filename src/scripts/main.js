@@ -1,6 +1,6 @@
 AOS.init();
     //para mudar o dia do evento precisa mudar a data no dataDoEvento abaixo
-    const dataDoEvento = new Date("Jul 4, 2024 19:00:00");
+    const dataDoEvento = new Date("dec 1, 2025 19:00:00");
     const timeStampDoEvento = dataDoEvento.getTime();
 
     const contaAsDeHoras = setInterval(function () {
